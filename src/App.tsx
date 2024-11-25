@@ -18,7 +18,7 @@ export default function App() { // read up on ways to define a react component
         >
           <Title size="5rem">Hello hello!<br/>I'm Sarah Wang</Title>
           <Text size="1.5rem" w='50vw' lh="md">
-            I’m an aspiring software developer, striving to create simple, intuitive, and beautiful applications.
+            An aspiring software developer striving to create simple, intuitive, and beautiful applications.
           </Text>
           <Text size="1.25rem" fw={300} mt="3rem">
             More coming soon, I promise!
