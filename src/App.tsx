@@ -16,7 +16,7 @@ export default function App() { // read up on ways to define a react component
           c="#FFFAEB"
           mt='20vh'
         >
-          <Title size="5rem">Hello hello!<br/>I'm Sarah Wang</Title>
+          <Title size="5rem">Hello, hello!<br/>I'm Sarah Wang</Title>
           <Text size="1.5rem" w='50vw' lh="md">
             An aspiring software developer striving to create simple, intuitive, and beautiful applications.
           </Text>
